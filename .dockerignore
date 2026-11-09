@@ -1,0 +1,12 @@
+**/bin/
+**/obj/
+**/out/
+.git/
+.vs/
+.vscode/
+.idea/
+*.db
+*.db-shm
+*.db-wal
+ShopLite.Tests/
+README.md
